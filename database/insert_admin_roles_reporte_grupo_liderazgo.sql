@@ -1,0 +1,1 @@
+INSERT INTO `ma_actions`(`name`, `url`, `controller_id`, `status_id`) VALUES ('Lideres Grupo Liderazgo','reporte4',12,1);
